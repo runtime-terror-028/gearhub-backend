@@ -13,4 +13,4 @@ GearHub is a e-commerce website where you can buy or sell PC parts. I started th
 
 
 
-[frontend-link]: https://github.com/username/gearhub-frontend
+[frontend-link]: https://github.com/runtime-terror-028/gearhub-frontend
